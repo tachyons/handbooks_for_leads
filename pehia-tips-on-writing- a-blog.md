@@ -10,13 +10,19 @@ So you have decided to write a blog? Awesome. Here are a few simple tips to get 
 
 ### 2. Sharing an experience.
 
-Wow! Awesome. Leading by model is one of best ways of leadership. Pour out your heart. Ask a friend to read it after you write. Are they inspired by you? If yes, go to point 5. Else, tweak it a bit. 
+Wow! Awesome. Leading by model is one of best ways of leadership. Pour out your heart. Ask a friend to read it after you write. Are they inspired by you? If yes, go to point 5. Else, tweak it a bit. <br>
+
+Don't forget to add the tag Diary for it to be featured in our Diary Section.
 
 ### 3. Writing a report.
 
-Reports are for evalution purposes. To show the world, how we are doing.It's best if you can make it as visual as it can be. Use pie charts and graphs. Make it easier to read the stats.
+Reports are for evalution purposes. To show the world, how we are doing.It's best if you can make it as visual as it can be. Use pie charts and graphs. Make it easier to read the stats.<br>
 
-### 4. If you are writing a tutorial or SEO content, first ensure that it is needed. As in, people are looking for the tutorial.Few tips that might come in handy are
+Don't forget to add the tag PEHIA REPORT for it to be featured in our Report Section.
+
+### 4. If you are writing a tutorial or SEO content, first ensure that it is needed. As in, people are looking for the tutorial.
+
+Don't forget to add the tag Tutorial for it to be featured in our Tutorial Section.Few tips that might come in handy are
 
 *  If you are not sure if it is relavant you can either ask for a help to content managers or your mentors or use a keyword finder like [kwfinder](https://app.kwfinder.com/)<br>
 
