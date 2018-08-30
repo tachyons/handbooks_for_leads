@@ -28,7 +28,7 @@
 
 ![Congrats! The admins/editors can now see your story for review!!](https://github.com/pehia/handbooks_for_leads/blob/master/images/pehia-submit-article-in-medium-7.png)  
 
-8. Mail the cheif content editor about your blog to start a conversation on the post.  
+8. Mail the chief content editor about your blog to start a conversation on the post.  
 
 
 All the best. Guide prepared by [enfageorge](github.com/enfageorge)
