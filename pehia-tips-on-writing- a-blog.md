@@ -12,7 +12,7 @@ So you have decided to write a blog? Awesome. Here are a few simple tips to get 
 
 Wow! Awesome. Leading by model is one of best ways of leadership. Pour out your heart. Ask a friend to read it after you write. Are they inspired by you? If yes, go to point 5. Else, tweak it a bit. <br>
 
-Don't forget to add the tag Diary for it to be featured in our Diary Section.
+Don't forget to add the tag Diary for it to be featured in our Diary Section and add tag 'Advice and Opinion' to be featured in our Sisterly advice section.
 
 ### 3. Writing a report.
 
