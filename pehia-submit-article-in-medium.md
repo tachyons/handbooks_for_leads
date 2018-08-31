@@ -1,6 +1,6 @@
 ## How to submit your story in PEHIA publication? - For Writers  
 
-1. Go to [medium.com](medium.com)
+1. Go to [medium.com](https://medium.com)
 
 ![Go to medium page](https://github.com/pehia/handbooks_for_leads/blob/master/images/pehia-submit-article-in-medium-1.png)  
 
@@ -31,4 +31,4 @@
 8. Mail the chief content editor about your blog to start a conversation on the post.  
 
 
-All the best. Guide prepared by [enfageorge](github.com/enfageorge)
+All the best. Guide prepared by [enfageorge](https://github.com/enfageorge)
